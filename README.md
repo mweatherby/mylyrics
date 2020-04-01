@@ -4,6 +4,10 @@ The project is setup to run inside a docker container. To install the package ru
 docker pull push elwevvo/michael_weatherby_lyrics:latest
 ```
 
+If running outside of docker, clone the project to local and install the required packages. The code can then be ran by changing to that directory and running:
+```bash
+python master.py
+```
 # Running the code
 To run the code, run the below:
 ```bash
