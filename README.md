@@ -1,7 +1,7 @@
 # Setup
 The project is setup to run inside a docker container. To install the package run the following in a terminal window:
 ```bash
-docker pull push elwevvo/michael_weatherby_lyrics:latest
+docker pull elwevvo/michael_weatherby_lyrics:latest
 ```
 
 If running outside of docker, clone the project to local and install the required packages. The code can then be ran by changing to that directory and running:
